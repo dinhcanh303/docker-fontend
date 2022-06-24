@@ -40,7 +40,7 @@ Follow the instruction below to setting up your project.
 
 ### Clone This Template For Your Project
 
-- By Clicking Use This Template Button or You can Click [Here](https://github.com/ishaqadhel/docker-laravel-mysql-nginx-starter/generate)
+- By Clicking Use This Template Button or You can Click [Here](https://github.com/NgoDinhCanh/docker-fontend)
 
 ![image](https://user-images.githubusercontent.com/49280352/156305925-c7e3f2f2-c458-4b0b-ad1c-32fcaec50e1d.png)
 
@@ -57,15 +57,15 @@ Follow the instruction below to setting up your project.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ishaqadhel/docker-laravel-mysql-nginx-starter.svg?style=for-the-badge
-[contributors-url]: https://github.com/ishaqadhel/docker-laravel-mysql-nginx-starter/graphs/contributors
+[contributors-url]: https://github.com/NgoDinhCanh/docker-fontend/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ishaqadhel/docker-laravel-mysql-nginx-starter.svg?style=for-the-badge
-[forks-url]: https://github.com/ishaqadhel/docker-laravel-mysql-nginx-starter/network/members
+[forks-url]: https://github.com/NgoDinhCanh/docker-fontend/network/members
 [stars-shield]: https://img.shields.io/github/stars/ishaqadhel/docker-laravel-mysql-nginx-starter.svg?style=for-the-badge
-[stars-url]: https://github.com/ishaqadhel/docker-laravel-mysql-nginx-starter/stargazers
+[stars-url]: https://github.com/NgoDinhCanh/docker-fontend/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ishaqadhel/docker-laravel-mysql-nginx-starter.svg?style=for-the-badge
-[issues-url]: https://github.com/ishaqadhel/docker-laravel-mysql-nginx-starter/issues
+[issues-url]: https://github.com/NgoDinhCanh/docker-fontend/issues
 [license-shield]: https://img.shields.io/github/license/ishaqadhel/docker-laravel-mysql-nginx-starter.svg?style=for-the-badge
-[license-url]: https://github.com/ishaqadhel/docker-laravel-mysql-nginx-starter/blob/master/LICENSE.txt
+[license-url]: https://github.com/NgoDinhCanh/docker-fontend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
